@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+bash-functions.sh#!/usr/bin/env bash
 #
 ## Basic structure
 #function_name () {
